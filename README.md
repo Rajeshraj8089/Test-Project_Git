@@ -1,1 +1,1 @@
-ifcinfig
+ifconfig
